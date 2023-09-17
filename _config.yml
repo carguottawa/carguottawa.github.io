@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "CARG Research"
 title_separator          : "-"
-name                     : &name "CARG Research Team of University of Ottawa"
+name                     : &name "CARG Research Team"
 description              : &description "Computational Analysis and Acceleration Research Group (CARG)"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "CARG Research Team of University of Ottawa"
+  name             : "CARG Research Team"
   avatar           : "profile.png"
   bio              : "Computational Analysis and Acceleration Research Group (CARG) supervised by Dr. Miodrag Bolic"
   location         : "University of Ottawa, Ottawa, Canada"
