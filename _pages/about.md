@@ -1,12 +1,22 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Computation Analysis and Acceleration Research Group (CARG)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+This is **Computational Analysis and Acceleration Research Group (CARG)** from [University of Ottawa](https://www.uottawa.ca/en) supervised by [Dr. Miodrag Bolic](https://engineering.uottawa.ca/people/bolic-miodrag). Currently, the group is performing research in the following areas:
+- UAV (unmanned aerial vehicle) detection and tracking, computer vision and sensor fusion
+- Merging physical and machine learning models: signal processing, probilistic machine learning and deep learning models
+- Improving computational efficiency of algorithms: hardware and software accelerators
+
+History
+======
+Our research group evolved from Computer Architecture Research Group (original CARG). Computer Architecture Research Group was formed in 2008 and focused on the follwoing topics: computer architectures, signal processing architectures, hardware and software accelerators, GPU architectures and programming and algorithmic modifications for more efficient implementation in hardware. In recent years, our research has gone in several different directions and therefore we decided to change the name of our group to Computational Analysis and Acceleration Research Group (new **CARG**).
+
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
